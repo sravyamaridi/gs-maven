@@ -49,5 +49,11 @@
 			</plugin>
 		</plugins>
 	</build>
+<distributionManagement>
+  <repository>
+    <id>naveen</id>
+    <url>http://34.216.78.42:8081/nexus/content/repositories/naveen</url>
+  </repository>
+</distributionManagement>
 
 </project>
